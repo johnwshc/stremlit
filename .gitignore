@@ -1,0 +1,16 @@
+secrets.toml
+.idea/
+poetry.lock
+analz/utils/audio_utils.py
+analz/utils/dpatterns.py
+analz/utils/forms.py
+analz/utils/lambdas.py
+analz/utils/medium_utils.py
+analz/utils/nsf.py
+analz/utils/podbeanapi.py
+analz/utils/pyarrow_utils.py
+analz/utils/shep_poets_emails.py
+analz/utils/sorts.py
+analz/utils/trees.py
+analz/utils/webtests.py
+analz/utils/yt.py

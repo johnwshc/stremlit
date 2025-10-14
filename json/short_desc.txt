@@ -1,0 +1,59 @@
+Farm prop
+Nonfarm prop.
+Farm employment
+Forestry, fishing
+Mining, oil, gas
+Utilities
+Construction
+Manufacturing
+Wholesale trade
+Retail trade
+Transportation
+Information
+Finance, insurance
+Real estate, leases
+STEM services
+Management svcs
+Admin/Waste svcs
+Educational svcs
+Health care svcs
+Arts, Recreation
+Hotels/Food svcs
+Misc. svcs
+Government All
+Federal civilian
+Military
+State and local
+State government
+Local government
+Farms
+***********************************************
+Farm proprietors employment
+Nonfarm proprietors employment 2
+Farm employment
+Forestry, fishing, and related activities
+Mining, quarrying, and oil and gas extraction
+Utilities
+Construction
+Manufacturing
+Wholesale trade
+Retail trade
+Transportation and warehousing
+Information
+Finance and insurance
+Real estate and rental and leasing
+Professional, scientific, and technical services
+Management of companies and enterprises
+Administrative and support and waste management and remediation services
+Educational services
+Health care and social assistance
+Arts, entertainment, and recreation
+Accommodation and food services
+Other services (except government and government enterprises)
+Government and government enterprises
+Federal civilian
+Military
+State and local
+State government
+Local government
+Farms
