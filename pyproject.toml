@@ -1,17 +1,16 @@
 [project]
 name = "strmlit"
 version = "0.1.0"
-description = "Streamlit tutorial"
+description = "streamlit test"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "“[John",email = "[jcase4218@gmail.com]"}
 ]
+license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "streamlit (>=1.49.1,<2.0.0)",
-    "matplotlib (>=3.10.7,<4.0.0)",
-    "plotly (>=6.3.1,<7.0.0)",
-    "authlib (>=1.6.5,<2.0.0)"
+    "pydantic (>=2.12.2,<3.0.0)",
+    "plotly (>=6.3.1,<7.0.0)"
 ]
 
 
