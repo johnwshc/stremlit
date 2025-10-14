@@ -1,0 +1,124 @@
+{
+  "lcs": [
+    {
+      "long": "Farm proprietors employment",
+      "short": "Farm prop"
+    },
+    {
+      "long": "Nonfarm proprietors employment 2",
+      "short": "Nonfarm prop."
+    },
+    {
+      "long": "Farm employment",
+      "short": "Farm employment"
+    },
+    {
+      "long": "Forestry, fishing, and related activities",
+      "short": "Forestry, fishing"
+    },
+    {
+      "long": "Mining, quarrying, and oil and gas extraction",
+      "short": "Mining, oil, gas"
+    },
+    {
+      "long": "Utilities",
+      "short": "Utilities"
+    },
+    {
+      "long": "Construction",
+      "short": "Construction"
+    },
+    {
+      "long": "Manufacturing",
+      "short": "Manufacturing"
+    },
+    {
+      "long": "Wholesale trade",
+      "short": "Wholesale trade"
+    },
+    {
+      "long": "Retail trade",
+      "short": "Retail trade"
+    },
+    {
+      "long": "Transportation and warehousing",
+      "short": "Transportation"
+    },
+    {
+      "long": "Information",
+      "short": "Information"
+    },
+    {
+      "long": "Finance and insurance",
+      "short": "Finance, insurance"
+    },
+    {
+      "long": "Real estate and rental and leasing",
+      "short": "Real estate, leases"
+    },
+    {
+      "long": "Professional, scientific, and technical services",
+      "short": "STEM services"
+    },
+    {
+      "long": "Management of companies and enterprises",
+      "short": "Management svcs"
+    },
+    {
+      "long": "Administrative and support and waste management and remediation services",
+      "short": "Admin/Waste svcs"
+    },
+    {
+      "long": "Educational services",
+      "short": "Educational svcs"
+    },
+    {
+      "long": "Health care and social assistance",
+      "short": "Health care svcs"
+    },
+    {
+      "long": "Arts, entertainment, and recreation",
+      "short": "Arts, Recreation"
+    },
+    {
+      "long": "Accommodation and food services",
+      "short": "Hotels/Food svcs"
+    },
+    {
+      "long": "Other services (except government and government enterprises)",
+      "short": "Misc. svcs"
+    },
+    {
+      "long": "Government and government enterprises",
+      "short": "Government All"
+    },
+    {
+      "long": "Federal civilian",
+      "short": "Federal civilian"
+    },
+    {
+      "long": "Military",
+      "short": "Military"
+    },
+    {
+      "long": "State and local",
+      "short": "State and local"
+    },
+    {
+      "long": "State government",
+      "short": "State government"
+    },
+    {
+      "long": "Local government",
+      "short": "Local government"
+    },
+    {
+      "long": "Farms",
+      "short": "Farms"
+    },
+    {
+      "long": "Agriculture, forestry, fishing and hunting",
+      "short": "All Agriculture"
+    }
+  ]
+}
