@@ -8,6 +8,14 @@ from typing import List, Optional
 import subprocess
 import markdown
 
+class GImage(BaseModel):
+    url: str
+    fn: str
+
+    def get_GImage(self):
+        if
+
+
 class NBCell(BaseModel):
     ctype: str
     source: str

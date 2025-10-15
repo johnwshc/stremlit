@@ -14,3 +14,4 @@ analz/utils/sorts.py
 analz/utils/trees.py
 analz/utils/webtests.py
 analz/utils/yt.py
+config.py
